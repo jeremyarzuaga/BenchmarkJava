@@ -1,0 +1,8 @@
+name: Snyk Scans
+
+# Temporarily just do manual triggers for testing
+on: workflow_dispatch
+#   push:
+#     branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
